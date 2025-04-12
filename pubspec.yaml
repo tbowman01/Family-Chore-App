@@ -1,0 +1,14 @@
+
+name: family_chores_app
+description: A cross-platform family chores app with login, rewards, and photo proof.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^3.0.0
+  firebase_core: ^1.0.0
+  cloud_firestore: ^2.5.0
+  firebase_storage: ^10.0.0
+  image_picker: ^0.8.4+2
+  flutter_local_notifications: ^9.1.5
+    
